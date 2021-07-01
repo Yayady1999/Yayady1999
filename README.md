@@ -1,13 +1,14 @@
-- 👋 Hello! I'm Yayady.
+- ### Hello, I'm Yayady �👋 
 -  :scroll: My Portfolio https://yayady1999.github.io/portfolio.in    :point_left:
 - :man_student:  I am an Engineer, Cyber security Analyst, Web Developer.
 - 👀 I’m interested in Cyber security, front end development, Penetration Testing.
 - 🌱 I’m currently learning ... Malware analysis
-- 📫 How to reach me ... 
 
- 
- 
- 
+### How to reach me👇
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Yayady1999)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yayady-senthil-kumar-2525261b9/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yayady1999@gmail.com)
 [![alt text][2.1]][2]
 
 
@@ -40,6 +41,27 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yayady1999&theme=tokyonight&show_icons=true" /> 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yayady1999" alt="Yayady1999" /> </p>
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavish171&theme=tokyonight&show_icons=true" />
+
+
+
+
+
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br />
+
+
+
+
+
 ### LANGUAGES AND TOOLS
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -63,8 +85,7 @@ You can click the Preview link to take a look at your changes.
   
   
   
-\
-<br>
+<br /><br /><br />
 
 <b>
 If u love my work,send me some Bitcoin. 
