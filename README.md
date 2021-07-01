@@ -1,4 +1,4 @@
-- ### Hello, I'm Yayady �👋 
+ ### Hello, I'm Yayady �👋 
 -  :scroll: My Portfolio https://yayady1999.github.io/portfolio.in    :point_left:
 - :man_student:  I am an Engineer, Cyber security Analyst, Web Developer.
 - 👀 I’m interested in Cyber security, front end development, Penetration Testing.
@@ -39,14 +39,13 @@ Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+<br/> 
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yayady1999" alt="Yayady1999" /> </p>
+<br/>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yayady1999&theme=tokyonight&show_icons=true" /> 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yayady1999" alt="Yayady1999" /> </p>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavish171&theme=tokyonight&show_icons=true" />
@@ -62,8 +61,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### LANGUAGES AND TOOLS
-
+## LANGUAGES AND TOOLS
+<b>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -82,12 +81,12 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Terminal" width="26px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 	<img align="left" alt="Terminal" width="26px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
+  <b/>
   
   
-  
-<br /><br /><br />
+<br/> <br/>
 
 <b>
-If u love my work,send me some Bitcoin. 
+If u love my work,you can send me some Bitcoin. <br/>
 My address is      3NRg6HPWwkVH3DCQjuzmGnTjC6qrchRmZD     
 <b>
