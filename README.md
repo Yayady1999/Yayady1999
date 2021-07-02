@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yayady1999&theme=tokyonight&show_icons=true" /> 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavish171&theme=tokyonight&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayady1999&theme=tokyonight&show_icons=true" />
 
 
 
