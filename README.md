@@ -66,17 +66,17 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="40px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>	
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
   
  <br /><br /> <br /> 
 	
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 	
-	📊 ##Time spent this week##
+	📊 ## Time spent this week ##
 <!--START_SECTION:Yayady work-->
 ````text
 Java           13 hrs 35 mins  ██████████████████▒░░░░░░   72.88 % 
@@ -88,16 +88,16 @@ CSS            11 mins         ▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:Yayady work-->
 	
 	
-	
-	
-	
-	
+	 
 	
 	
 	
 	
 	
 	 
-<b>If u love my work,you can send me some Bitcoin.  <br>
-My address is      3NRg6HPWwkVH3DCQjuzmGnTjC6qrchRmZD     
-<b>
+	
+	
+	 
+</b> <br> <br/> If u love my work,you can send me some Bitcoin.  <br>
+My address is  <b>    3NRg6HPWwkVH3DCQjuzmGnTjC6qrchRmZD     
+</b>
