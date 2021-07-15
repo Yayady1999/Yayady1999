@@ -14,7 +14,7 @@
 <a href="https://twitter.com/">
   <img align="left" alt="Yayady | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/yayady.apex/">
+<a href="https://www.facebook.com/yayady.senthil.kumar/">
   <img align="left" alt="Yayady | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/yayady_apex/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yayady_apex" height="24" width="28" /></a>
