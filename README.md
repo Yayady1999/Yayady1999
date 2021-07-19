@@ -48,8 +48,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yayady1999&" alt="Yayady1999" /></p>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />  
+
+
+<br /><br />
 
 
 
@@ -75,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
   
- <br /><br /> <br /> 
+ <br /><br /> 
 	
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 	
@@ -104,8 +107,3 @@ CSS            11 mins         ▒░░░░░░░░░░░░░░░�
 </b> <br> <br/> If u love my work,you can send me some Bitcoin.  <br>
 My address is  <b>    3NRg6HPWwkVH3DCQjuzmGnTjC6qrchRmZD     
 </b>
-
-
-
-
-
