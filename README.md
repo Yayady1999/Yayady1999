@@ -107,3 +107,6 @@ CSS            11 mins         ▒░░░░░░░░░░░░░░░�
 </b> <br> <br/> If u love my work,you can send me some Bitcoin.  <br>
 My address is  <b>    3NRg6HPWwkVH3DCQjuzmGnTjC6qrchRmZD     
 </b>
+
+<meta name="google-site-verification" content="S0UU_6kBTqJphshxYBLa2jx7N9x5j17VhbdLKzBNUh4" />
+
