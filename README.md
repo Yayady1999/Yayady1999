@@ -7,7 +7,7 @@
 
 
 <meta name="google-site-verification" content="S0UU_6kBTqJphshxYBLa2jx7N9x5j17VhbdLKzBNUh4" />
-<meta name="keywords" content="Yayady, yayady resume, yayady, yayady s, yayady senthil kumar, yayady senthil, yayady kumar, yayady portfolio, yayady github, yayady1999" />
+<meta name="yayady, Yayady, Yayady1999, yayady1999 , yayady github, Yayady github" content="Yayady, yayady resume, yayady, yayady s, yayady senthil kumar, yayady senthil, yayady kumar, yayady portfolio, yayady github, yayady1999" />
 
 
 ### How to reach me👇
