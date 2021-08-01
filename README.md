@@ -57,6 +57,7 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yayady1999&" alt="Yayady1999" /></p>
 
 
+[![contributions](https://activity-graph.herokuapp.com/graph?username=Yayady1999&theme=xcode&area=true)](https://github.com/Yayady1999)
 
 <br /><br />
 
@@ -90,11 +91,9 @@ You can click the Preview link to take a look at your changes.
 	
 	
 
-[![contributions](https://activity-graph.herokuapp.com/graph?username=Yayady1999&theme=xcode&area=true)](https://github.com/Yayady1999)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yayady1999&theme=juicyfresh&no-bg=false)](https://github.com/Yayady1999)
+ 
 	
-	
-	<br> </br>
+	 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 	
 	📊 ## Time spent this week ##
