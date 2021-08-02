@@ -54,9 +54,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yayady1999&" alt="Yayady1999" /></p>
-
-
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yayady1999&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)
+   
 [![contributions](https://activity-graph.herokuapp.com/graph?username=Yayady1999&theme=xcode&area=true)](https://github.com/Yayady1999)
 
 <br /><br />
