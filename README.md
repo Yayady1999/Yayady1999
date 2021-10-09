@@ -99,10 +99,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:Yayady work-->
 ````text
 Java           13 hrs 35 mins  ██████████████████▒░░░░░░   72.88 % 
-JavaScript     3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 % 
+CSS            3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 % 
 Shell Script   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 HTML           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-CSS            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JavaScript     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
  ````
 <!--END_SECTION:Yayady work-->
 	
