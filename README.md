@@ -35,32 +35,29 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-
-
- 
-
 <br/> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Yayady1999" alt="Yayady1999" /> </p>
 <br/>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yayady1999&theme=tokyonight&show_icons=true" /> 
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayady1999&theme=tokyonight&show_icons=true" />
-
-
-
-
-
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yayady1999&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)
-   
-[![contributions](https://activity-graph.herokuapp.com/graph?username=Yayady1999&theme=xcode&area=true)](https://github.com/Yayady1999)
-
-<br /><br />
-
-
+	
+	 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+	
+	📊 ## Time spent this week ##
+<!--START_SECTION:Yayady work-->
+````text
+Java           13 hrs 35 mins  ██████████████████▒░░░░░░   72.88 % 
+CSS            3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 % 
+Shell Script   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+HTML           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JavaScript     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+ ````
+<!--END_SECTION:Yayady work-->
+	
+<br>  </br><br>  </br>
+	 
 
 ## LANGUAGES AND TOOLS
 <b>
@@ -86,34 +83,34 @@ You can click the Preview link to take a look at your changes.
   
  <br /><br /> 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yayady1999&theme=tokyonight&show_icons=true" /> 
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayady1999&theme=tokyonight&show_icons=true" />
+
+
+
+
+
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yayady1999&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)
+   
+[![contributions](https://activity-graph.herokuapp.com/graph?username=Yayady1999&theme=xcode&area=true)](https://github.com/Yayady1999)
+
+<br /><br />
+
+
+ 
 	
 	
 	
 
  
+ 
 	
-	 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-	
-	📊 ## Time spent this week ##
-<!--START_SECTION:Yayady work-->
-````text
-Java           13 hrs 35 mins  ██████████████████▒░░░░░░   72.88 % 
-CSS            3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 % 
-Shell Script   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-HTML           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-JavaScript     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
- ````
-<!--END_SECTION:Yayady work-->
-	
-	
-	 
-	
-
+A snake eater game based on the user contributions chart which was  _generated with [Platane/snk](https://github.com/Platane/snk)_  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-  _generated with [Platane/snk](https://github.com/Platane/snk)_   
-	
+ 	
 	
 	 
 	
