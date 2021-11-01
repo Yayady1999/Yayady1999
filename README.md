@@ -1,4 +1,7 @@
-
+<!---
+Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 ### Hello, I'm Yayady <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 -  :scroll: My Portfolio https://yayady1999.github.io/portfolio.in    :point_left:
 - :man_student:  I am an Engineer, Cyber security Analyst, Web Developer.
@@ -15,15 +18,15 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yayady1999@gmail.com) 
 <a href="https://www.linkedin.com/in/yayady/">
-  <img align="left" alt="Yayady's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Yayady's LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/">
-  <img align="left" alt="Yayady | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Yayady | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/yayady.senthil.kumar/">
-  <img align="left" alt="Yayady | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Yayady | Facebook" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/yayady_apex/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yayady_apex" height="24" width="28" /></a>
+<a href="https://www.instagram.com/yayady_apex/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yayady_apex" height="34" width="38" /></a>
 
 
 
@@ -34,10 +37,7 @@
 
 
 
-<!---
-Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
 
 <br/> 
 
