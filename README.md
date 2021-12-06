@@ -41,24 +41,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 
-	
-	 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-	
-	📊 ## Time spent this week ##
-<!--START_SECTION:Yayady work-->
-````text
-Java           13 hrs 35 mins  ██████████████████▒░░░░░░   72.88 % 
-CSS            3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 % 
-Shell Script   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-HTML           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-JavaScript     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
- ````
-<!--END_SECTION:Yayady work-->
-	
-<br>  </br><br>  </br>
-	 
-
 ## LANGUAGES AND TOOLS
 <b>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -82,6 +64,26 @@ JavaScript     11 mins         ▒░░░░░░░░░░░░░░░�
 
   
  <br /><br /> 
+	
+	 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+	
+	📊 ## Time spent this week ##
+<!--START_SECTION:Yayady work-->
+````text
+Java           13 hrs 35 mins  ██████████████████▒░░░░░░   72.88 % 
+CSS            3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 % 
+Shell Script   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+HTML           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JavaScript     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+ ````
+<!--END_SECTION:Yayady work-->
+	
+<br>  </br>
+	 <br>  </br>
+	 <br>  </br>
+	 
+ 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayady1999&theme=tokyonight&show_icons=true" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yayady1999&theme=tokyonight&show_icons=true" /> 
