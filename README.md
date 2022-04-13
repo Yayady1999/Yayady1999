@@ -116,8 +116,8 @@ A snake eater game based on the user contributions chart which was  _generated w
 </b> <br> <br/> If u love my work,you can send me some Bitcoin.  <br>
 My address is  <b>    3LgUjzq9TZ1uWk8tzNrk6LjGqAMpVtfKtK   
 </b>
-If u want to send Ethereum, my ethereum address  <b> 0xD8BDFf7A1A812eF597bd5618c13a82ae0AF31B24 <b>
-	BNB coins can be sent here   <b> 0xD8BDFf7A1A812eF597bd5618c13a82ae0AF31B24 <b>
+If u want to send Ethereum, my ethereum address  <b> 0xD8BDFf7A1A812eF597bd5618c13a82ae0AF31B24 </b>
+ BNB coins can be sent here   <b> 0xD8BDFf7A1A812eF597bd5618c13a82ae0AF31B24 </b>
 <!---
 
 <h2>ℹ️ &nbsp;Github Info</h2>
