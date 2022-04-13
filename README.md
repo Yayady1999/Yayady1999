@@ -24,12 +24,15 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Yayady | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/yayady.senthil.kumar/">
-  <img align="left" alt="Yayady | Facebook" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Yayady | Facebook" width="32px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/yayady_apex/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yayady_apex" height="34" width="38" /></a>
 
+<center>
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
+<center/>
 <p align="center"> 
   <a href="https://skyline.github.com/Yayady1999/2021"><b><i>:chart_with_upwards_trend: 🏙 Skyline View 🏙 :chart_with_downwards_trend: </b></i></a>
 </p>
