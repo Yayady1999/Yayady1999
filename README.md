@@ -23,9 +23,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/">
   <img align="left" alt="Yayady | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/yayady.senthil.kumar/">
-  <img align="left" alt="Yayady | Facebook" width="32px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.svg" />
-</a>
+
 <a href="https://www.instagram.com/yayady_apex/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yayady_apex" height="34" width="38" /></a>
 
 <center>
