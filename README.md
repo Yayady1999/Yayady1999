@@ -1,5 +1,5 @@
 <!---
-Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
 
 # 👋 Hello, I'm Yayady
@@ -17,16 +17,16 @@ Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` (t
 - 🔐 Passionate about Ethical Hacking & Penetration Testing  
 - 🌐 Building modern web apps using React, Node.js, Python & APIs  
 - 📚 Currently learning: Machine Learning, Deep Learning & Blockchain  
-- 💡 I love turning ideas into intelligent, scalable real-world solutions  
-- ⚙️ Interested in AI + Cybersecurity + Automation integration  
+- 💡 I love turning ideas into intelligent real-world solutions  
+- ⚙️ Interested in AI + Cybersecurity + Automation  
 
 ---
 
 ## ⚡ Tech Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320" />
 </p>
 
 <p align="center">
@@ -38,35 +38,39 @@ Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` (t
 
 ## 📫 How to reach me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yayady1999@gmail.com)
+<p align="left">
+
+<a href="mailto:yayady1999@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/yayady/">
-  <img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
 </a>
 
-<a href="https://twitter.com/">
-  <img align="left" alt="Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://instagram.com/yayady_apex">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram"/>
 </a>
 
-<a href="https://www.instagram.com/yayady_apex/">
-  <img align="left" alt="Instagram" width="34px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
+</p>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<img align="left" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<p align="left">
 
-<br><br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"/>
+
+</p>
 
 ---
 
@@ -78,11 +82,14 @@ Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` (t
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FIXED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yayady1999&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayady1999&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yayady1999&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayady1999&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +97,7 @@ Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` (t
 ## 🔥 Streak & Activity
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Yayady1999&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yayady1999&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -108,8 +115,6 @@ Yayady1999/Yayady1999 is a ✨ special ✨ repository because its `README.md` (t
 ---
 
 ## 💰 Support
-
-If you like my work:
 
 - BTC: `3LgUjzq9TZ1uWk8tzNrk6LjGqAMpVtfKtK`  
 - ETH / BNB: `0xD8BDFf7A1A812eF597bd5618c13a82ae0AF31B24`
